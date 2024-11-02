@@ -14,16 +14,16 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+        <span>R</span><br><br><br>
+        <img height="64px" src="https://github.com/user-attachments/assets/0707ec6b-c72d-4bfb-92c0-c4e02d396503">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <span>Power BI</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span>Tableau</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tableau-icon.svg">
       </td>
     </tr>
     <tr valign="top">
